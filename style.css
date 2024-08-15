@@ -88,6 +88,10 @@
     cursor: pointer;
 }
 .show{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
     height: 10px;
     width: 40%;
 }
